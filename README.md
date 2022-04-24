@@ -1,7 +1,7 @@
 ### ✨ Hi there 👋 ✨
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1916eco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=1916eco&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 <!--
