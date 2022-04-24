@@ -1,8 +1,8 @@
 ### ✨ Hi there 👋 ✨
 
 
-[Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=1916eco&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+[![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=1916eco&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1916eco&layout=compact&theme=vision-friendly-dark)]
 
 <!--
 **1916eco/1916eco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
